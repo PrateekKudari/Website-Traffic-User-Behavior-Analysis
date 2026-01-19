@@ -1,10 +1,10 @@
 # Website-Traffic-User-Behavior-Analysis
 
-Project Overview
+*Project Overview
 
 This project analyzes website traffic and user behavior to understand user engagement, identify drop-off points, and evaluate conversion performance. The goal is to provide actionable insights that can help improve website UX and marketing strategies.
 
- Objectives
+*Objectives
 
 Analyze website traffic trends over time
 
@@ -14,7 +14,7 @@ Identify high bounce-rate and low-conversion areas
 
 Visualize KPIs using an interactive Power BI dashboard
 
- Tools & Technologies
+*Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib) – Data cleaning & EDA
 
@@ -22,7 +22,7 @@ SQL – Business queries & metrics
 
 Power BI – Interactive dashboard & visualization
 
- Dataset
+*Dataset
 
 20,000+ website session records
 
@@ -30,7 +30,7 @@ Includes user, session, traffic source, device, page, and conversion data
 
 Cleaned and prepared using Python before analysis
 
- Key Metrics Analyzed
+*Key Metrics Analyzed
 
 Total Users & Sessions
 
@@ -42,7 +42,7 @@ Average Session Duration
 
 Traffic Source & Device Performance
 
- Dashboard Highlights
+*Dashboard Highlights
 
 KPI cards for quick performance overview
 
@@ -54,7 +54,7 @@ Device and traffic source comparison
 
 Interactive slicers for deeper insights
 
- Key Insights
+*Key Insights
 
 Mobile users show lower conversion rates compared to desktop
 
@@ -62,7 +62,7 @@ Product and cart pages have higher drop-off rates
 
 Organic search traffic converts better than paid ads
 
- Recommendations
+*Recommendations
 
 Improve mobile user experience to boost conversions
 
@@ -72,7 +72,7 @@ Focus marketing efforts on high-conversion traffic sources
 
 
 
- How to Run
+*How to Run
 
 Load dataset into Python and run the notebook
 
@@ -82,5 +82,5 @@ Load cleaned dataset into Power BI
 
 Open .pbix file to explore dashboard
 
- Author
+* Author:
 Prateek Kudari
